@@ -1,0 +1,4 @@
+metadata.json
+channels/*.json
+private_channels/*.json
+direct_messages/*.json
